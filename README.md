@@ -16,8 +16,7 @@ Built in JavaScript using Hapi framework.
 
 ## Testing
 Testing was done in two iterations for each available API and evaluated based on several criteria. The scenarios were primarily focused on CRUD operations. The testing tool used was Newman (Postman CLI).
-- [Run dashboard](https://rawcdn.githack.com/fwaskito/notes-api/27e72820c02f228db35c903efc684922bf1924ba/test/newman/run-dashboard.html)
-- [Run report](https://rawcdn.githack.com/fwaskito/notes-api/27e72820c02f228db35c903efc684922bf1924ba/test/newman/run-report.html)
+- Result: [Run report](https://rawcdn.githack.com/fwaskito/notes-api/27e72820c02f228db35c903efc684922bf1924ba/test/newman/run-report.html)
 
 ***
 
